@@ -1,0 +1,103 @@
+.main {
+    width:1110px;
+    height:500px;
+    background-image: url(car5.jpg);
+}
+
+.question {
+    width:65%;
+    height:100px;
+    padding:25px 0px 0px 15px;
+    font-family: 'Baloo Chettan', cursive;
+    font-size:40px;
+    color:white;
+}
+
+.adv {
+    width:65%;
+    height:400px;
+    padding:10px 0px 0px 15px;
+    font-family: 'Courgette', cursive;
+    color:lightseagreen;
+    font-size:25px;
+    float:left;
+}
+
+.sale{
+    color:tomato;
+}
+
+.form{
+    width:22%;
+    height:auto;
+    float:left;
+    background-color:#f8f8ff;
+    margin-left:85px;
+    margin-top:40px;
+    color:darkgray;
+    line-height:17px;
+    font-size:14px;
+    border-radius: 10px;
+    
+}
+
+.head{
+    width:1110px;
+    height:50px;
+    background-color: brown;
+    padding-top:10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.call{
+    font-size:20px;
+    color:silver;
+}
+
+.formhead{margin-top:10px;
+    text-align: center;
+    color:#cdbe70;
+    font-family: 'Varela', sans-serif;
+    font-weight: 700;
+}
+
+.send{
+    background-color: #cdbe70;
+    border-radius: 5px;
+    margin:10px 60px;
+    width:auto;
+    height:40px;
+    box-shadow: aliceblue;
+    color:darkslategray;
+}
+
+.write{
+    color:tomato;
+    font-size:15px;
+    font-weight:bold;
+    font-family: 'Marcellus', serif;
+    line-height:20px;
+}
+
+.stores{
+    width:150px;
+    height:50px;
+    margin-left:105px;
+    text-align: center;
+    font-family: 'Black Ops One', cursive;
+    border-radius:10px 10px 0px 0px;
+    background-color: #cdbe70;
+}
+
+.places{
+    width:150px;
+    height:30px;
+    margin-left:105px;
+    text-align: center;
+    font-family: 'Black Ops One', cursive;
+    background-color:tomato;
+    color:#cdbe70;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight:bold;
+    border-radius:0px 0px 10px 10px;
+}
